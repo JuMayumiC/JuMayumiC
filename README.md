@@ -21,4 +21,4 @@
 
 ## :snake: Activities :
 
-![Snake animation](https://github.com/italomauricio1/italo-mauricio/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/italomauricio1/JuMayumiC/blob/output/github-contribution-grid-snake.svg)

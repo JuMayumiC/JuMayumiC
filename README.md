@@ -18,3 +18,7 @@
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
   <img aling="right" height="120em" width="120em" src="https://i.picasion.com/pic92/1ee30bb9c660bf170e344a96643af499.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/"></a>
+
+## :snake: Activities :
+
+![Snake animation](https://github.com/italomauricio1/italo-mauricio/blob/output/github-contribution-grid-snake.svg)

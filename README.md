@@ -3,6 +3,8 @@
 - 📱 [Meu email](julia.mayumi.costa@escola.pr.gov.br)
 - ⇨ meta: Engenharia Computacional pelo MEXT ou na UTFPR
 
+# CODE WITH HRT <3
+
 <div>
   <a href="https://github.com/JuMayumiC/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuMayumiC&show_icons=true&theme=synthwave&include_all_commits=true"/>

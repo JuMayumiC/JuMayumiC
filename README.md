@@ -1,13 +1,13 @@
 ## Hajimemashite! Watashi wa Mayumi desu!
 ★ 🌻 Julia Mayumi
 
-★ 🌐 CEP | 2ºNEM (mat&cnt)
+★ 🌐 CEP | 3ºNEM (mat&cnt)
 
 ★  meta: Engenharia Computacional na UTFPR e Cultura e Língua Japonesa no MEXT
 
 ★  lang: inglês e japonês
 
-★  ♡ atletismo, vôlei, animes, programação, química, fotografia, música...
+★  ♡ atletismo, vôlei, animes, robótica, programação, química, fotografia, música...
 
 # CODE WITH HRT <3
 

@@ -1,5 +1,5 @@
 ## Hajimemashite! Watashi wa Mayumi desu!
-★ 🌻 Julia Mayumi
+★ 🦋 Julia Mayumi
 
 ★ 🌐 CEP | 3ºNEM (mat&cnt)
 

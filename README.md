@@ -1,13 +1,23 @@
 ## Hajimemashite! Watashi wa Mayumi desu!
 ★ 🦋 Julia Mayumi
 
-★ 🌐 CEP | 3ºNEM (mat&cnt)
+★ UTFPR | 1/10 Engenharia Eletrônica 
 
-★  meta: Engenharia Computacional na UTFPR e Cultura e Língua Japonesa no MEXT
+★  meta: projetos e iniciações científicas e Cultura e Língua Japonesa no MEXT
 
 ★  lang: inglês e japonês
 
-★  ♡ atletismo, vôlei, animes, robótica, programação, química, fotografia, música...
+★  1º lugar resgate OBR 2024 etapa regional de Pinhais
+
+★  1º lugar resgate OBR 2024 etapa estadual do Paraná
+
+★  14º/56 lugar resgate OBR 2024 etapa nacional
+
+★  1º lugar Agrinho Robótica 2024 etapa escolar 
+
+★  1º lugar Agrinho Robótica 2024 da NRE Curitiba
+
+★  ♡ esportes, animes, robótica, programação, química, fotografia, música...
 
 # CODE WITH HRT <3
 

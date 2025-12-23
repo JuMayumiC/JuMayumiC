@@ -1,7 +1,7 @@
 ## Hajimemashite! Watashi wa Mayumi desu!
 ★ 🦋 Julia Mayumi
 
-★ UTFPR | 1/10 Engenharia Eletrônica 
+★ UTFPR | 3/10 Engenharia Eletrônica 
 
 ★  meta: projetos e iniciações científicas e Cultura e Língua Japonesa no MEXT
 
